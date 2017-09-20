@@ -1,1 +1,1 @@
-# ESP32-Deelp-Sleep-Ultra-Low-Power-Trial
+# ESP32-Deep-Sleep-Ultra-Low-Power-Trial
